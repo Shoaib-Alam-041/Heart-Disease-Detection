@@ -20,8 +20,8 @@ This project uses machine learning to predict the likelihood of heart disease in
 |-------|----------|-----------|--------|----------|
 | Logistic Regression | 81% | 84% | 82% | 83% |
 
-
-Developed by Shoaib Alam Khan 
+---
+💻 Developed by Shoaib with ❤️
 
 
 
